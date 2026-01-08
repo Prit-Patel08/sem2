@@ -1,5 +1,3 @@
-# Add two numbers
-
 def add():
     a = int(input("Enter a number:"))
     b = int(input("Enter Another Number:"))
